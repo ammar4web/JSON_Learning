@@ -1,0 +1,11 @@
+{
+  "userName": "Ammar4web",
+  "country": "Syria",
+  "age": 24,
+  "working": true,
+  "identity": null,
+  "skills": {
+    "frontEnd": ["HTML", "CSS", "JS"],
+    "backEnd": ["PHP", "Laravel"]
+  }
+}
